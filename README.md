@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Tenho experiência com Html, Css e JavaScript
-- Veja meu LinkedIn: [Thiago](https://www.linkedin.com/in/thiagoma/)
+- Veja meu LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Thiago_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoma/)](https://www.linkedin.com/in/thiagoma/)
 
 <div align="center" >
   
@@ -11,9 +11,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMa1&layout=compact&show_icons=true&theme=merko&count_private=true)](https://github.com/ThiagoMa1/github-readme-stats)
 </div> <hr>
 <div align="center" style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Th-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 
