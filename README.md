@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Front-End
-- 🌱 Tenho experiência com Html, Css e JavaScript
+- 🌱 Tenho experiência com SASS, ReactJs e Vanilla JavaScript
 - Veja meu LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Thiago_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoma/)](https://www.linkedin.com/in/thiagoma/)
 
 <div align="center" >
