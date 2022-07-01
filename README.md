@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com Front-End
-- 🌱 Tenho experiência com SASS, ReactJs e Vanilla JavaScript
+- 🌱 Javascript, React Js, Typescript, SASS, Redux
 - Veja meu LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Thiago_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoma/)](https://www.linkedin.com/in/thiagoma/)
 
 <div align="center" >
