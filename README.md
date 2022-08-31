@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Thiago Andrade
 
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Javascript, React Js, Typescript, SASS, Redux
+- 🔭 Desenvolvedor Front-End
+- 🌱 Javascript, Typescript, React.js, SASS, Redux, Next.js
 - Veja meu LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Thiago_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoma/)](https://www.linkedin.com/in/thiagoma/)
 
 <div align="center" >
