@@ -4,7 +4,7 @@
 - 🔭 Desenvolvedor Front-End
 - 🌱 Javascript, Typescript, React.js, React Native, SASS, Redux, Next.js, NodeJs
 - Veja meu LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-Thiago_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoma/)](https://www.linkedin.com/in/thiagoma/)
-- Veja meu Portifólio: (https://www.linkedin.com/in/thiagoma/)
+- Veja meu Portifólio: (https://my-personal-website-thiagoma1.vercel.app/)
 
 <div align="center" >
   
